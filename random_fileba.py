@@ -9,3 +9,4 @@ for i in range(0,10):
     
 print('A random program véget ért.')
 f.close
+
