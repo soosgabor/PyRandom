@@ -1,6 +1,4 @@
 # PyRandom
-sdf
-asd
-
+Demo
 
 Még valami
